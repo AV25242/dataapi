@@ -42,5 +42,27 @@
         "create_user_on_auth": false,
         "disabled": false,
         "return_type": "JSON"
+    },
+    {
+        "route": "/myko",
+        "http_method": "POST",
+        "function_name": "bar",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "JSON"
+    },
+    {
+        "route": "/bravo",
+        "http_method": "POST",
+        "function_name": "bravo",
+        "validation_method": "NO_VALIDATION",
+        "respond_result": false,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false,
+        "return_type": "JSON"
     }
 ]

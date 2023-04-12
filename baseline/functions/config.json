@@ -8,5 +8,10 @@
         "name": "foo",
         "private": false,
         "disable_arg_logs": true
+    },
+    {
+        "name": "bravo",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]
