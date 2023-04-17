@@ -1,11 +1,16 @@
 [
     {
+        "name": "bar",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
         "name": "foofunc",
         "private": false,
         "disable_arg_logs": true
     },
     {
-        "name": "bar",
+        "name": "test",
         "private": false,
         "disable_arg_logs": true
     }
