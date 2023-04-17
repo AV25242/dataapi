@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "name": "foofunc",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "bar",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
