@@ -1,6 +1,6 @@
 [
     {
-        "route": "/foopost",
+        "route": "/foobar",
         "http_method": "POST",
         "function_name": "foo",
         "validation_method": "NO_VALIDATION",
