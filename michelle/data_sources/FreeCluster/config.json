@@ -1,5 +1,5 @@
 {
-    "name": "mongodb-atlas",
+    "name": "FreeCluster",
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "FreeCluster",

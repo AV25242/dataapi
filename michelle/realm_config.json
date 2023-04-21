@@ -1,8 +1,8 @@
 {
-    "app_id": "demoapp-kimur",
+    "app_id": "data-fucpc",
     "config_version": 20210101,
-    "name": "demoapp",
+    "name": "data",
     "location": "US-VA",
-    "provider_region": "aws-us-east-1",
+    "provider_region": "aws-us-east-2",
     "deployment_model": "LOCAL"
 }

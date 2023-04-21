@@ -1,5 +1,15 @@
 [
     {
+        "name": "foo",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "bar",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
         "name": "test",
         "private": false,
         "disable_arg_logs": true
