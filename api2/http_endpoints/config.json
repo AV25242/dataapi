@@ -1,8 +1,8 @@
 [
     {
-        "route": "/foo",
+        "route": "/crap",
         "http_method": "POST",
-        "function_name": "foo",
+        "function_name": "crap",
         "validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,
