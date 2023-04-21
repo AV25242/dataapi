@@ -1,8 +1,9 @@
 {
-    "app_id": "mydev-yabap",
+    "app_id": "staging-jjnsg",
     "config_version": 20210101,
-    "name": "mydev",
+    "name": "staging",
     "location": "US-VA",
     "provider_region": "aws-us-east-1",
-    "deployment_model": "LOCAL"
+    "deployment_model": "LOCAL",
+    "environment": "testing"
 }
