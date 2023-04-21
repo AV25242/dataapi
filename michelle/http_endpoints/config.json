@@ -1,8 +1,8 @@
 [
     {
-        "route": "/bar",
+        "route": "/test",
         "http_method": "POST",
-        "function_name": "bar",
+        "function_name": "test",
         "validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,
