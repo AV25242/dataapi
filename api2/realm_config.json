@@ -1,9 +1,8 @@
 {
-    "app_id": "application-0-unksw",
+    "app_id": "fromrepo-kmaqs",
     "config_version": 20210101,
-    "name": "Application-0",
+    "name": "fromrepo",
     "location": "US-VA",
     "provider_region": "aws-us-east-1",
-    "deployment_model": "LOCAL",
-    "environment": "production"
+    "deployment_model": "LOCAL"
 }
