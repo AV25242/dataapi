@@ -3,7 +3,7 @@
     "name": "fortunebyyear",
     "description": "Fortune by year",
     "method": "GET",
-    "endpoint": "/schools_cop",
+    "endpoint": "/annualfortune",
     "data_source": {
       "cluster_id": 1379661944646165830
     },
@@ -19,7 +19,7 @@
       "timeout": 5000,
       "row_limit": 500
     },
-    "sql_file": "sql/GET-schools_cop.sql",
+    "sql_file": "sql/GET-annualfortune.sql",
     "type": "sql_endpoint",
     "return_type": "json"
   },
