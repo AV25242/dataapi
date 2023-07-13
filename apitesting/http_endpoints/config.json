@@ -17,7 +17,7 @@
     ],
     "settings": {
       "timeout": 5000,
-      "row_limit": 50
+      "row_limit": 500
     },
     "sql_file": "sql/GET-schools_cop.sql",
     "type": "sql_endpoint",
